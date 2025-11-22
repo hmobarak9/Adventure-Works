@@ -1,3 +1,3 @@
 # Adventure-Works
 Built a dashboard in Power BI showing segment profiles and actionable recommendations for marketing targeting.
-Built a dashboard from raw sales data covering multiple regions and product categories. 
+Designed and implemented a Power BI dashboard to analyze segment profiles and deliver actionable marketing recommendations.
